@@ -1,0 +1,13 @@
+.container {
+    width: 80%;
+    max-width: 500px;
+    aspect-ratio: 1/1;
+    margin: 0 auto;
+    border: var(--border-dashed);
+}
+
+.box {
+    width: 25%;
+    aspect-ratio: 1/1;
+    background-color: var(--color-yellow);
+}
